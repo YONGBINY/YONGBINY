@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![쿠아아앙](https://github-readme-stats.vercel.app/api?username=YONGBINY&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YONGBINY&repo=github-readme-stats)](https://github.com/YONGBINY/)
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YONGBINY&repo=github-readme-stats)](https://github.com/YONGBINY/)
